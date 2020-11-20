@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/rushu570.github.io/static/css/main.072aa420.chunk.css",
-    "main.js": "/rushu570.github.io/static/js/main.ab4ca41e.chunk.js",
-    "main.js.map": "/rushu570.github.io/static/js/main.ab4ca41e.chunk.js.map",
+    "main.css": "/rushu570.github.io/static/css/main.712b3e11.chunk.css",
+    "main.js": "/rushu570.github.io/static/js/main.3bd3d5c9.chunk.js",
+    "main.js.map": "/rushu570.github.io/static/js/main.3bd3d5c9.chunk.js.map",
     "runtime-main.js": "/rushu570.github.io/static/js/runtime-main.c7f1d369.js",
     "runtime-main.js.map": "/rushu570.github.io/static/js/runtime-main.c7f1d369.js.map",
     "static/js/2.59e2b2f8.chunk.js": "/rushu570.github.io/static/js/2.59e2b2f8.chunk.js",
     "static/js/2.59e2b2f8.chunk.js.map": "/rushu570.github.io/static/js/2.59e2b2f8.chunk.js.map",
     "index.html": "/rushu570.github.io/index.html",
-    "static/css/main.072aa420.chunk.css.map": "/rushu570.github.io/static/css/main.072aa420.chunk.css.map",
+    "static/css/main.712b3e11.chunk.css.map": "/rushu570.github.io/static/css/main.712b3e11.chunk.css.map",
     "static/js/2.59e2b2f8.chunk.js.LICENSE.txt": "/rushu570.github.io/static/js/2.59e2b2f8.chunk.js.LICENSE.txt",
     "static/media/index.css": "/rushu570.github.io/static/media/Montserrat-Regular.3cd78665.ttf",
     "static/media/address_image.svg": "/rushu570.github.io/static/media/address_image.ee6c2f85.svg",
@@ -53,7 +53,7 @@
   "entrypoints": [
     "static/js/runtime-main.c7f1d369.js",
     "static/js/2.59e2b2f8.chunk.js",
-    "static/css/main.072aa420.chunk.css",
-    "static/js/main.ab4ca41e.chunk.js"
+    "static/css/main.712b3e11.chunk.css",
+    "static/js/main.3bd3d5c9.chunk.js"
   ]
 }
