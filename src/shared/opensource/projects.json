@@ -1,0 +1,95 @@
+{
+  "data": [
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkxOTExNjcwMDc=",
+      "name": "Horse-and-Human-classification-with-Tensorflow",
+      "createdAt": "2019-06-10T12:49:12Z",
+      "url": "https://github.com/rushu570/Horse-and-Human-classification-with-Tensorflow",
+      "description": "A project using Tensorflow in python for classifying Horse and Human",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkxOTIyMjA5NzI=",
+      "name": "Analyze-the-sentiment-of-reviews-with-Keras",
+      "createdAt": "2019-06-16T17:56:29Z",
+      "url": "https://github.com/rushu570/Analyze-the-sentiment-of-reviews-with-Keras",
+      "description": "Keras is a high-level neural networks API, written in Python, that runs on top of other deep learning tools such as TensorFlow. This module uses Keras to build a neural network that scores text, such as user reviews for sentiment.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyMDMzNTc3Mzg=",
+      "name": "Attendance-with-Face-Recognition",
+      "createdAt": "2019-08-20T10:57:10Z",
+      "url": "https://github.com/rushu570/Attendance-with-Face-Recognition",
+      "description": "A Face Recognition system which help in automating the process of attendance. ",
+      "isFork": false,
+      "languages": []
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkxOTEzNDg2NzE=",
+      "name": "Fashion_Mnist",
+      "createdAt": "2019-06-11T10:27:35Z",
+      "url": "https://github.com/rushu570/Fashion_Mnist",
+      "description": "Fashion recognition using a Deep Neural Network (DNN) containing three layers -- the input layer (in the shape of the data), the output layer (in the shape of the desired output) and a hidden layer.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyMDYyNzM1NjU=",
+      "name": "Predicting-flight-delays-",
+      "createdAt": "2019-09-04T08:45:48Z",
+      "url": "https://github.com/rushu570/Predicting-flight-delays-",
+      "description": "Predict flight delays by creating a machine learning model in Python",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDUwNjc5NDM=",
+      "name": "Ethereum-Track-Nurture",
+      "createdAt": "2020-03-05T04:23:51Z",
+      "url": "https://github.com/rushu570/Ethereum-Track-Nurture",
+      "description": "'Nurture' is a decentralized urban farming platform where individuals could lease empty spaces like backyards or basements to produce food using urban farming methods. Our platform incentivizes urban population into farming by providing them a decentralized market place to sell their fresh produce directly to consumers in their neighborhoods. We are focusing on impact track and our product meets the following UN Sustainable Development Goals:",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "C#",
+          "iconifyClass": "logos-c-sharp"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    }
+  ]
+}
