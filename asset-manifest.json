@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/rushu570.github.io/static/css/main.072aa420.chunk.css",
-    "main.js": "/rushu570.github.io/static/js/main.8a95e0e4.chunk.js",
-    "main.js.map": "/rushu570.github.io/static/js/main.8a95e0e4.chunk.js.map",
+    "main.js": "/rushu570.github.io/static/js/main.ab4ca41e.chunk.js",
+    "main.js.map": "/rushu570.github.io/static/js/main.ab4ca41e.chunk.js.map",
     "runtime-main.js": "/rushu570.github.io/static/js/runtime-main.c7f1d369.js",
     "runtime-main.js.map": "/rushu570.github.io/static/js/runtime-main.c7f1d369.js.map",
-    "static/js/2.7784e0ed.chunk.js": "/rushu570.github.io/static/js/2.7784e0ed.chunk.js",
-    "static/js/2.7784e0ed.chunk.js.map": "/rushu570.github.io/static/js/2.7784e0ed.chunk.js.map",
+    "static/js/2.59e2b2f8.chunk.js": "/rushu570.github.io/static/js/2.59e2b2f8.chunk.js",
+    "static/js/2.59e2b2f8.chunk.js.map": "/rushu570.github.io/static/js/2.59e2b2f8.chunk.js.map",
     "index.html": "/rushu570.github.io/index.html",
     "static/css/main.072aa420.chunk.css.map": "/rushu570.github.io/static/css/main.072aa420.chunk.css.map",
-    "static/js/2.7784e0ed.chunk.js.LICENSE.txt": "/rushu570.github.io/static/js/2.7784e0ed.chunk.js.LICENSE.txt",
+    "static/js/2.59e2b2f8.chunk.js.LICENSE.txt": "/rushu570.github.io/static/js/2.59e2b2f8.chunk.js.LICENSE.txt",
     "static/media/index.css": "/rushu570.github.io/static/media/Montserrat-Regular.3cd78665.ttf",
     "static/media/address_image.svg": "/rushu570.github.io/static/media/address_image.ee6c2f85.svg",
-    "static/media/animated_ashutosh.png": "/rushu570.github.io/static/media/animated_ashutosh.01f37255.png",
+    "static/media/animated_ashutosh.png": "/rushu570.github.io/static/media/animated_ashutosh.ce55eb26.png",
     "static/media/animated_logo.svg": "/rushu570.github.io/static/media/animated_logo.fb5dc6c9.svg",
     "static/media/blogs_image.svg": "/rushu570.github.io/static/media/blogs_image.b87d12fd.svg",
     "static/media/cloud_infrastructure.svg": "/rushu570.github.io/static/media/cloud_infrastructure.5fd77f6b.svg",
@@ -25,6 +25,7 @@
     "static/media/education.svg": "/rushu570.github.io/static/media/education.8b0258a1.svg",
     "static/media/experience.svg": "/rushu570.github.io/static/media/experience.9aa990f8.svg",
     "static/media/all.css": "/rushu570.github.io/static/media/fa-solid-900.decfdcb6.svg",
+    "static/media/favicon.ico.png": "/rushu570.github.io/static/media/favicon.ico.ce55eb26.png",
     "static/media/feelingProud.svg": "/rushu570.github.io/static/media/feelingProud.61bf63c3.svg",
     "static/media/fullstack.svg": "/rushu570.github.io/static/media/fullstack.8fd53fb8.svg",
     "static/media/gcp_logo.png": "/rushu570.github.io/static/media/gcp_logo.0d29293e.png",
@@ -51,8 +52,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.c7f1d369.js",
-    "static/js/2.7784e0ed.chunk.js",
+    "static/js/2.59e2b2f8.chunk.js",
     "static/css/main.072aa420.chunk.css",
-    "static/js/main.8a95e0e4.chunk.js"
+    "static/js/main.ab4ca41e.chunk.js"
   ]
 }
